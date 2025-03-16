@@ -1,0 +1,7 @@
+streamlit
+requests
+fastapi
+uvicorn
+boto3
+python-dotenv
+pymupdf
